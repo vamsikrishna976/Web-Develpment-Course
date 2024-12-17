@@ -1,0 +1,21 @@
+.height{
+    height: 35px;
+ 
+}
+
+h1{
+font-size: 50px;
+;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(114, 148, 157);
+    background-color: black;
+    text-align: center;
+}
+
+.dis{
+    height: 20px;
+}
